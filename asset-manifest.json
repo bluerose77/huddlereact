@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/huddlereact/static/css/main.e64bb25c.chunk.css",
+    "main.js": "/huddlereact/static/js/main.05dfb1a7.chunk.js",
+    "main.js.map": "/huddlereact/static/js/main.05dfb1a7.chunk.js.map",
+    "runtime-main.js": "/huddlereact/static/js/runtime-main.0e60f15b.js",
+    "runtime-main.js.map": "/huddlereact/static/js/runtime-main.0e60f15b.js.map",
+    "static/js/2.8911d523.chunk.js": "/huddlereact/static/js/2.8911d523.chunk.js",
+    "static/js/2.8911d523.chunk.js.map": "/huddlereact/static/js/2.8911d523.chunk.js.map",
+    "static/js/3.fdfffa07.chunk.js": "/huddlereact/static/js/3.fdfffa07.chunk.js",
+    "static/js/3.fdfffa07.chunk.js.map": "/huddlereact/static/js/3.fdfffa07.chunk.js.map",
+    "index.html": "/huddlereact/index.html",
+    "static/css/main.e64bb25c.chunk.css.map": "/huddlereact/static/css/main.e64bb25c.chunk.css.map",
+    "static/js/2.8911d523.chunk.js.LICENSE.txt": "/huddlereact/static/js/2.8911d523.chunk.js.LICENSE.txt",
+    "static/media/illustration-mockups.264994a5.svg": "/huddlereact/static/media/illustration-mockups.264994a5.svg",
+    "static/media/logo.2b3c07e4.svg": "/huddlereact/static/media/logo.2b3c07e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e60f15b.js",
+    "static/js/2.8911d523.chunk.js",
+    "static/css/main.e64bb25c.chunk.css",
+    "static/js/main.05dfb1a7.chunk.js"
+  ]
+}
